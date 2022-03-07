@@ -1,0 +1,66 @@
+.rankingtitulo{
+    font-size: 40px;
+}
+
+.noticia_principal {
+    color: rgb(3, 3, 3);
+    text-align: center;
+}
+
+.parrafo {
+    color: blueviolet;
+}
+
+.parrafo{
+    font-family:'Cabin', sans-serif;
+}
+
+.card {
+    margin: 2px;
+}
+
+.parrafo_2 {
+    padding-left: 480px;
+    padding-top: 70px;
+    padding-right: 100px;
+    padding-bottom: 70px;
+    height: 100px;
+    transition: height 2s;
+}
+
+.parrafo_2:hover {
+    height: 200px;
+}
+
+.contacto {
+    width: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.serverclasicotitulo{
+    text-align: center;
+    color: blue;
+}
+
+.rankingtitulo {
+    text-align: center;
+    color: blue;
+}
+
+body {
+    background-image: url(../assets/img/fondo.png);
+}
+
+.noticia_principal {
+    font-size: 50px;
+    color: lightcoral;
+}
+
+.parrafo_3 {
+    font-size: 25px;
+    color:blueviolet;
+    font-family:'Cabin', sans-serif;
+}
+
+
