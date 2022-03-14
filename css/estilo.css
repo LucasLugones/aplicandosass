@@ -163,3 +163,49 @@ body {
 .redesabajo {
   display: flex;
   justify-content: space-between; }
+
+.col-1 {
+  padding: 5px; }
+
+.col-2 {
+  padding: 10px; }
+
+.col-3 {
+  padding: 15px; }
+
+.col-4 {
+  padding: 20px; }
+
+.col-5 {
+  padding: 25px; }
+
+.colorPrimario {
+  color: blue; }
+
+.colorSecundario {
+  color: yellow; }
+
+.colorPrimario2 {
+  color: white; }
+
+.colorSecundrio2 {
+  color: black; }
+
+.boton, .boton-aceptar, .boton-cancelar {
+  width: 100px;
+  height: 40px;
+  font-size: 20px;
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 20px; }
+
+.boton-aceptar {
+  background-color: green;
+  color: white;
+  border: 1px solid pink; }
+
+.boton-cancelar {
+  background-color: red;
+  color: red;
+  border: 1px solid red; }
